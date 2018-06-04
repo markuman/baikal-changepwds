@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/baikal-changepwds
+bye bye microsoft. please visit https://git.osuv.de/m/baikal-changepwds
